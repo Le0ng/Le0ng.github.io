@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-#gemspec
+gemspec
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -27,4 +27,4 @@ if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
 
-gem "jekyll-theme-chirpy", "~> 5.6.0"
+#gem "jekyll-theme-chirpy", "~> 5.6.0"
