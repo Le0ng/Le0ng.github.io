@@ -28,3 +28,12 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 #gem "jekyll-theme-chirpy", "~> 5.6.0"
+gem 'html-proofer'
+gem 'nokogiri'
+gem 'parallel'
+gem 'rainbow'
+gem 'typhoeus'
+gem 'yell'
+gem 'racc'
+gem 'ethon'
+
