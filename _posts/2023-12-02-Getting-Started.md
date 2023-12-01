@@ -2,7 +2,7 @@
 title: Getting Started
 author: le0ng
 date: 2023-12-02 03:55:00 +0900
-categories: []
+categories: [Etc]
 tags: []
 pin: true
 ---
