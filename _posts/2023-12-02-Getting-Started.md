@@ -13,10 +13,7 @@ pin: true
 [+] 할 말이 많았는데 까먹었다 ㅎㅅㅎ 블로그 작성을 제대로 시작하게 되면 이 글은 사라지겠지
 이 글을 보고있다면.. 왜 보시는거죠..?
 
-https://jjikin.com/posts/Jekyll-Chirpy-%ED%85%8C%EB%A7%88%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(2023-6%EC%9B%94-%EA%B8%B0%EC%A4%80)/ 
-위 링크에서 도움을 매우 많이 받았다..!!
+https://jjikin.com/posts/Jekyll-Chirpy-%ED%85%8C%EB%A7%88%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(2023-6%EC%9B%94-%EA%B8%B0%EC%A4%80)/  
 
-[nodejs]: https://nodejs.org/
-[starter]: https://github.com/cotes2020/chirpy-starter
-[pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
-[latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags
+위 링크에서 도움을 매우 많이 받았다..!!  
+
