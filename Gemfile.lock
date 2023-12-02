@@ -105,7 +105,7 @@ PLATFORMS
 
 DEPENDENCIES
   ethon
-  html-proofer (= 3.19.4)
+  html-proofer (~> 3.18)
   http_parser.rb (~> 0.6.0)
   jekyll-theme-chirpy!
   nokogiri
