@@ -1,17 +1,19 @@
 ---
-title: Getting Started
+title: 블로그 구축 후 첫 글
 author: le0ng
 date: 2023-12-02 03:55:00 +0900
-categories: [Etc]
+categories: [etc]
 tags: []
 pin: true
 ---
 
 ## 설치 완료
-어떻게 쓰는지 모르겠다 ㅜㅜ 아무튼 겨우 구축에 성공했으니 슬슬 유튜브 보다가 자러 가야겠다.
-링크는 또 어떻게 넣는지 모르겠지만 마크다운 공부하고 하는걸로 하고,, 피곤하다
+어떻게 쓰는지 모르겠다 ㅜㅜ 아무튼 겨우 구축에 성공했으니 슬슬 유튜브 보다가 자러 가야겠다. 
+링크는 또 어떻게 넣는지 모르겠지만 마크다운 공부하고 하는걸로 하고,, 피곤하다 
+[+] 할 말이 많았는데 까먹었다 ㅎㅅㅎ 블로그 작성을 제대로 시작하게 되면 이 글은 사라지겠지
+이 글을 보고있다면.. 왜 보시는거죠..?
 
-https://jjikin.com/posts/Jekyll-Chirpy-%ED%85%8C%EB%A7%88%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(2023-6%EC%9B%94-%EA%B8%B0%EC%A4%80)/
+https://jjikin.com/posts/Jekyll-Chirpy-%ED%85%8C%EB%A7%88%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(2023-6%EC%9B%94-%EA%B8%B0%EC%A4%80)/ 
 위 링크에서 도움을 매우 많이 받았다..!!
 
 [nodejs]: https://nodejs.org/

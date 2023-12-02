@@ -65,10 +65,12 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
+      {% comment %}
         {% when 'github', 'twitter' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
-          {%- endcapture -%}
+	   {%- endcapture -%}
+	   {% endcomment %}
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}
           {%- capture url -%}
